@@ -102,8 +102,8 @@ Speed vs Cost Trade-off:
 ---
 
 ## Project Structure
--OBDA/Project/
-   -OBDA_SCOptim_Grp8.ipynb
-   -SupplyChainLogisticsProblems.xlsx
+OBDA/Project/
+- OBDA_SCOptim_Grp8.ipynb
+- SupplyChainLogisticsProblems.xlsx
 
   
